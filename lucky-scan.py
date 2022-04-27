@@ -27,7 +27,7 @@ print(
 
 
 
- [ https://twitter.com/lu3ky13 ]
+ [ https://twitter.com/ ]
 
         """ + Fore.RESET)
 time.sleep(0.5)
