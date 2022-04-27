@@ -15,7 +15,7 @@
 
 - download file python (you need python3) ( python3 lu3ky13-SCANNER.py) <br>
 - create  txt files like (payload.txt) add payload in a text <br>
-- run tools  python3 lu3ky13-SCANNER.py <br>
+- run tools  python3 lucky-scan.py <br>
 
 
 <h1> <g-emoji class="g-emoji" alias="card_file_box" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c3.png">🗃️</g-emoji> <a href="https://youtu.be/FgkwKou9QqE" rel="nofollow"><img src="" alt="YouTube" data-canonical-src="https://youtu.be/FgkwKou9QqE" style="max-width: 100%;"></a> <g-emoji class="g-emoji" alias="card_file_box" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c3.png">🗃️</g-emoji> </h1>
@@ -39,8 +39,8 @@
  |                           |
   ----------------------------
 
- [ https://twitter.com/lu3ky13 ]
- [github.com/Lu3ky13/lu3ky13-SCANNER]
+ [ https://twitter.com/ ]
+ [github.com/trhacknon/lucky-scan]
 
 
 Enter your url:- testphp.vulnweb.com
