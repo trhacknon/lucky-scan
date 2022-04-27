@@ -13,7 +13,7 @@
 
 
 
-- download file python (you need python3) ( python3 lu3ky13-SCANNER.py) <br>
+- download file python (you need python3) ( python3 lucky-scan.py) <br>
 - create  txt files like (payload.txt) add payload in a text <br>
 - run tools  python3 lucky-scan.py <br>
 
